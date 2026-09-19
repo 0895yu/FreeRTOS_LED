@@ -1,0 +1,23 @@
+# dot files
+/.vscode/launch.json
+/.settings
+/.eide/log
+/.eide.usr.ctx.json
+
+# project out (build artifacts)
+/build
+/bin
+/obj
+/out
+/Objects
+/Listings
+/DebugConfig
+
+# Keil backup files
+*.bak
+*.uvguix.*
+*.scvd
+
+# eide template
+*.ept
+*.eide-template
